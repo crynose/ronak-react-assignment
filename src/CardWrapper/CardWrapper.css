@@ -1,0 +1,16 @@
+@import '../index.css';
+
+
+.cardWrapper {
+  background: black;
+}
+
+.card {
+  opacity: 0.5;
+  border-radius: 5px;
+  color: yellow;
+}
+
+.img {
+  max-width: 100%;
+}
